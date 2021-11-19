@@ -1,7 +1,9 @@
+import HeaderResponsive from './Components/HeaderResponsive'
+
 function App() {
   return (
     <div className="App">
-      <header className="header">hello header</header>
+      <HeaderResponsive />
     </div>
   );
 }
